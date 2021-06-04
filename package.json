@@ -1,0 +1,22 @@
+{
+  "name": "coach",
+  "version": "1.0.0",
+  "description": "tema para web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makingdevs/theme_dialogus.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makingdevs/theme_dialogus/issues"
+  },
+  "homepage": "https://github.com/makingdevs/theme_dialogus#readme"
+}

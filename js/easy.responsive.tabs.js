@@ -1,5 +1,6 @@
 // Easy Responsive Tabs Plugin
 // Author: Samson.Onna <Email : samson3d@gmail.com> 
+import jQuery from 'jquery';
 (function ($) {
     $.fn.extend({
         easyResponsiveTabs: function (options) {

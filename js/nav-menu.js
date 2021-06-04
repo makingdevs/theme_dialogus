@@ -7,6 +7,7 @@
 
     ---------------------------------- */
     
+import jQuery from 'jquery';
 (function ($) {
     "use strict";
     $.fn.menumaker = function (options) {
